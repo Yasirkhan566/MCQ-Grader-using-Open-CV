@@ -1,3 +1,7 @@
+<h1>Command to run the file<h1>
+    <code>
+        python test_grader.py --image images/omr_test_01.png
+    </code>
 <h1>Code Explanation: Exam Sheet Processing</h1>
     
 <div class="explanation">
